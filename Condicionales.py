@@ -73,7 +73,7 @@ nombre="Juan David Montes Pulgarin"
 if edad > 18:
     print("La persona: {} De edad: {} y fecha de nacimiento {} Es mayor de edad".format(nombre,edad,fnacimiento))
 elif edad > 10 and edad < 18:
-    print("La persona: {} De edad: {} y fecha de nacimiento {} Es menor de edad por puto".format(nombre,edad,fnacimiento))
+    print("La persona: {} De edad: {} y fecha de nacimiento {} Es menor de edad ".format(nombre,edad,fnacimiento))
 else:
     print("La persona: {} De edad: {} y fecha de nacimiento {} es demaciado pequeño".format(nombre,edad,fnacimiento))
 
