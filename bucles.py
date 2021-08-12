@@ -70,9 +70,9 @@ for i in range(10):
         print(i,"Multiplo 5")
         break
 
-for Juan in range(11):
-    for Maria in range(11):
-        print(Juan,"x",Maria,"=",Juan*Maria)
+for x in range(11):
+    for y in range(11):
+        print(x,"x",y,"=",x*y)
 
 '''
 
